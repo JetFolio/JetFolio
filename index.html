@@ -6,22 +6,24 @@
     <title>Jetfolio</title>
 
     <style>
-        body{
-            display: flex;
-            flex-direction: column;
-            flex-wrap: nowrap;
-            justify-content: center;
+        html, body{
+            border: 0;
+            padding: 0;
+            margin: 0;
 
-            text-align: center;
+            background-color: aliceblue;
         }
         .card{
             width: 300px;
-            flex: 50%;
+            height: 500px;
+
+            top: calc((100% - 300px) / 2);
+            left: calc((100% - 500px) / 2);
 
             border: solid 1px grey;
             border-radius: 10px;
 
-            box-shadow: 0 0 0 20px grey;
+            box-shadow: 0 0 10px 10px grey;
         }
     </style>
 </head>
