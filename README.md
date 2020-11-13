@@ -1,5 +1,6 @@
 # JetFolio project
 A student-made social for e-portfolio sharing.
+The best one.
 
 ### [Check our documentation](https://docs.google.com/document/d/1UiWQZa6p_S54jESK9jSryYK-umfbpRUmg15G5QfLLps/edit?usp=sharing)
 
